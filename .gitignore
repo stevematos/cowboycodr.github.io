@@ -3,3 +3,5 @@
 .web
 __pycache__/
 .idea
+requirements.txt
+.DS_Store
